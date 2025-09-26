@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Vercel
+.vercel/
+
+# Python
+__pycache__/
+*.pyc
+.env
